@@ -1,12 +1,8 @@
 {
-  "name": "tokyo-free-white-react-admin-dashboard",
+  "name": "Dashboard",
   "version": "2.0.0",
-  "title": "Tokyo Free White React Typescript Admin Dashboard",
+  "title": "Admin Dashboard",
   "description": "This free and open source admin dashboard template is built for React and it’s bootstrapped from Facebook’s create-react-app. All NPM dependencies are up to date and it contains multiple fully customized components based on the popular frontend components framework, Material-UI.",
-  "author": {
-    "name": "BloomUI.com",
-    "url": "https://bloomui.com"
-  },
   "private": false,
   "dependencies": {
     "@emotion/react": "11.9.0",

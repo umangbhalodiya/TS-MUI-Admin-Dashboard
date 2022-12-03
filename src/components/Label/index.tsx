@@ -5,13 +5,13 @@ import { styled } from '@mui/material/styles';
 interface LabelProps {
   className?: string;
   color?:
-    | 'primary'
-    | 'black'
-    | 'secondary'
-    | 'error'
-    | 'warning'
-    | 'success'
-    | 'info';
+  | 'primary'
+  | 'black'
+  | 'secondary'
+  | 'error'
+  | 'warning'
+  | 'success'
+  | 'info';
   children?: ReactNode;
 }
 

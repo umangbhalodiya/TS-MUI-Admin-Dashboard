@@ -27,7 +27,7 @@ function Footer() {
           }}
           variant="subtitle1"
         >
-          Crafted by{' '}
+          Crafted by{'  '}
           <Link
             href="https://bloomui.com"
             target="_blank"

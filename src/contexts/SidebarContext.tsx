@@ -5,7 +5,7 @@ type SidebarContext = {
   closeSidebar: () => void;
 };
 
- export const SidebarContext = createContext<SidebarContext>(
+export const SidebarContext = createContext<SidebarContext>(
   {} as SidebarContext
 );
 

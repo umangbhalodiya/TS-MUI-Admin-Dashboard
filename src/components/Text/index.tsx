@@ -6,13 +6,13 @@ import clsx from 'clsx';
 interface TextProps {
   className?: string;
   color?:
-    | 'primary'
-    | 'secondary'
-    | 'error'
-    | 'warning'
-    | 'success'
-    | 'info'
-    | 'black';
+  | 'primary'
+  | 'secondary'
+  | 'error'
+  | 'warning'
+  | 'success'
+  | 'info'
+  | 'black';
   flex?: boolean;
   children?: ReactNode;
 }

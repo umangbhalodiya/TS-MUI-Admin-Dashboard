@@ -1,2 +1,2 @@
 # TS-MUI-Admin-Dashboard
-Build in mui, reactjs with fully responsive.
+Built in mui, reactjs with fully responsive.

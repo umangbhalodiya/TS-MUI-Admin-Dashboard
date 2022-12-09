@@ -78,8 +78,7 @@ const AccordionSummaryWrapper = styled(AccordionSummary)(
               color: ${theme.colors.primary.main};
             }
           }
-        }
-`
+        }`
 );
 
 function TopBarContent() {

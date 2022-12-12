@@ -1,5 +1,4 @@
 # TS-MUI-Admin-Dashboard
-Built in mui, reactjs with fully responsive.
 
 This is a [React.js](https://reactjs.org/) & Typescript project 
 ​
